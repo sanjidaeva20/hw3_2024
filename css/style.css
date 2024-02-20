@@ -200,8 +200,8 @@ first div in the grid  and place it in the grid. */
  .text-block {
   margin: auto;
   max-height: 250px;
-  /* overflow: scroll;
-  text-align: center; */
+  overflow: scroll;
+  text-align: center;
   justify-content: center;
   align-items: center;
   align-self: center;
